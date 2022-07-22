@@ -52,18 +52,18 @@ body{
 .box1{
     min-height: 80px;
     /* flex-shrink: 0; */
-    flex-grow: 1; 
+    /* flex-grow: 1;  */
     /* flex-shrink: 0;doesnt let to shrink its size  */
 }
 .box2{
     min-height: 120px;
-    flex-grow: 1; 
+    /* flex-grow: 1;  */
 }
 .box3{
     /* flex-grow: 1; grows the size of the container when there is an empty space available */
     min-height:200px;
     /* flex-shrink: 0; */
-    flex-grow: 1;
+    /* flex-grow: 1; */
 }
 .buttons{
     display: flex;
